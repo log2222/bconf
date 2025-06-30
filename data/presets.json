@@ -2,7 +2,7 @@
   {
     "name": "Офисная (бюджетная)",
     "components": {
-      "CPU": "Процессор Intel Pentium G3930 (2.9GHz/2Mb/51W) OEM",
+      "CPU": "Процессор Intel Original Celeron G3930 Soc-1151 (CM8067703015717S R35K) (2.9GHz/Intel HD Graphics 610) OEM",
       "GPU": "Видеокарта Palit PCI-E PA-GT710-1GD5 nVidia GeForce GT 710 1024Mb 64bit GDDR5 954/2500 DVIx1/HDMIx1/CRTx1/HDCP Bulk low profile",
       "RAM": [
         "Память DDR4 8Gb 2400MHz Kingston KVR24N17S8/8 RTL PC4-19200 CL17 DIMM 288-pin"
@@ -10,7 +10,7 @@
       "SSD": [
         "Накопитель SSD A-Data SATA III 240Gb ASU630SS-240GQ-R Ultimate SU630 2.5\""
       ],
-      "Motherboard": "",
+      "Motherboard": "Материнская плата Gigabyte GA-H110M-H Soc-1151 Intel H110 2xDDR4 mATX AC`97 8ch(7.1) GbLAN+VGA+HDMI",
       "PSU": "Блок питания ATX 400W Winard 80mm 24+4/2xSATA+2xMolex RTL",
       "Case": "Корпус Minitower INWIN EFS057 MicroATX 500W (24+2x4+6/8пин) (6119513)"
     }
@@ -18,7 +18,7 @@
   {
     "name": "Профессиональная (1С)",
     "components": {
-      "CPU": "Процессор Intel Core i3-10100 (3.6GHz, 4 ядра, 8 потоков) OEM",
+      "CPU": "Процессор Intel Core i3 7100 Soc-1151 (3.9GHz/Intel HD Graphics 630) OEM",
       "GPU": "Интегрированная графика Intel UHD Graphics 630",
       "RAM": [
         "Память DDR4 8Gb 2666MHz Kingston KVR26N19S8/8 DIMM 288-pin"
@@ -26,7 +26,7 @@
       "SSD": [
         "Накопитель SSD Kingston SATA III 240Gb SA400S37/240G A400 2.5\""
       ],
-      "Motherboard": "Материнская плата ASUS PRIME H410M-K Soc-1200 Intel H410 2xDDR4 MicroATX",
+      "Motherboard": "Материнская плата Gigabyte GA-H110M-H Soc-1151 Intel H110 2xDDR4 mATX AC`97 8ch(7.1) GbLAN+VGA+HDMI",
       "PSU": "Блок питания ATX 400W Winard 80mm 24+4/2xSATA+2xMolex RTL",
       "Case": "Корпус Minitower INWIN EFS057 MicroATX 500W (24+2x4+6/8пин) (6119513)"
     }
@@ -34,7 +34,7 @@
   {
     "name": "Домашняя (мультимедиа)",
     "components": {
-      "CPU": "Процессор (CPU Intel Socket 1150 Core I3-4170T (3.20GHz/3Mb/35W) tray)",
+      "CPU": "Процессор AMD Ryzen 5 2400G AM4 (YD2400C5FBBOX) (3.6GHz/Radeon Vega) Box",
       "GPU": "Видеокарта Palit PCI-E PA-GTX1650 STORMX 4G nVidia GeForce GTX 1650 4096Mb 128bit GDDR5 1485/8000 DVIx1/HDMIx1/HDCP Ret",
       "RAM": [
         "Память DDR4 8Gb 2400MHz Kingston KVR24N17S8/8 RTL PC4-19200 CL17 DIMM 288-pin"
@@ -42,7 +42,7 @@
       "SSD": [
         "Накопитель SSD Samsung USB 500Gb MU-PA500B/WW T5 2.5\""
       ],
-      "Motherboard": "",
+      "Motherboard": "Материнская плата Gigabyte GA-A320M-H Soc-AM4 AMD A320 2xDDR4 mATX AC`97 8ch(7.1) GbLAN RAID+DVI+HDMI",
       "PSU": "Блок питания ATX 450W Winard 80mm 24+4/2xSATA+2xMolex RTL",
       "Case": "Корпус Minitower INWIN EFS057 MicroATX 500W (24+2x4+6/8пин) (6119513)"
     }
@@ -50,7 +50,7 @@
   {
     "name": "Игровая (начальный уровень)",
     "components": {
-      "CPU": "Процессор Intel Core i3-6100 (3.7GHz, 2 ядра, 4 потока) OEM",
+      "CPU": "Процессор Intel Original Core i5 9400F Soc-1151v2 (CM8068403875510S RG0Z) (2.9GHz) OEM",
       "GPU": "Видеокарта Palit PCI-E PA-GT1030 2G nVidia GeForce GT 1030 2048Mb 64bit GDDR5 HDMI/DVI",
       "RAM": [
         "Память DDR4 8Gb 2400MHz Kingston KVR24N17S8/8 RTL PC4-19200 CL17 DIMM 288-pin"
@@ -58,7 +58,7 @@
       "SSD": [
         "Накопитель SSD Kingston SATA III 240Gb SA400S37/240G A400 2.5\""
       ],
-      "Motherboard": "Материнская плата ASUS H110M-K Soc-1151 Intel H110 2xDDR4 MicroATX",
+      "Motherboard": "Материнская плата Asrock H370M PRO4 Soc-1151v2 Intel H370 4xDDR4 mATX AC`97 8ch(7.1) GbLAN RAID+VGA+DVI+HDMI",
       "PSU": "Блок питания ATX 400W Winard 80mm 24+4/2xSATA+2xMolex RTL",
       "Case": "Корпус Minitower INWIN EFS057 MicroATX 500W (24+2x4+6/8пин) (6119513)"
     }
@@ -66,7 +66,7 @@
   {
     "name": "Игровая (средний уровень)",
     "components": {
-      "CPU": "Процессор Intel Original Core i5 9400F Soc-1151v2 (CM8068403358819S RF6M) (2.9GHz) OEM",
+      "CPU": "Процессор Intel Original Core i5 10600 Soc-1200 (CM8070104290312S RH37) (3.3GHz/Intel UHD Graphics 630) OEM",
       "GPU": "Видеокарта Palit PCI-E PA-GTX1650 STORMX 4G nVidia GeForce GTX 1650 4096Mb 128bit GDDR5 1485/8000 DVIx1/HDMIx1/HDCP Ret",
       "RAM": [
         "Память DDR4 16Gb 2400MHz AMD R7416G2400U2S-UO OEM PC4-19200 CL15 DIMM 288-pin 1.2В"
@@ -74,7 +74,7 @@
       "SSD": [
         "Накопитель SSD Samsung USB 500Gb MU-PA500B/WW T5 2.5\""
       ],
-      "Motherboard": "",
+      "Motherboard": "Материнская плата ASUS PRIME H410M-K Soc-1200 Intel H410 2xDDR4 MicroATX",
       "PSU": "Блок питания Aerocool ATX 550W ECO-550 (24+4+4pin) 120mm fan 4xSATA RTL",
       "Case": "Корпус INWIN EAR013 ATX Mid Tower 500W, USB+Audio, Black"
     }
@@ -82,7 +82,7 @@
   {
     "name": "Игровая (высокий уровень)",
     "components": {
-      "CPU": "Процессор Intel Original Core i7 7700 Soc-1151 (CM8067702868314S R338) (3.6GHz/Intel HD Graphics 530) OEM",
+      "CPU": "Процессор AMD Ryzen 7 3700X AM4 (100-000000071) (3.6GHz) Tray",
       "GPU": "",
       "RAM": [
         "Память DDR4 32Gb 3000MHz PC-24000 Patriot Viper 4 (PV432G300C6K) (2x16Gb KIT)"
